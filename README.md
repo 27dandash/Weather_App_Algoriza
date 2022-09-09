@@ -11,7 +11,9 @@ https://drive.google.com/file/d/1qciex40FeUKipzRx0ELtrNcVeyWm7MCg/view?usp=shari
 ============================================================================================>
 Used Libraries :-
 cupertino_icons: ^1.0.2
+
   intl: ^0.17.0
+
   bloc: ^8.0.1
   flutter_bloc: ^8.0.0
   sizer: ^2.0.15
