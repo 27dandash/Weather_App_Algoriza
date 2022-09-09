@@ -15,19 +15,33 @@ cupertino_icons: ^1.0.2
   intl: ^0.17.0
 
   bloc: ^8.0.1
+
   flutter_bloc: ^8.0.0
+
   sizer: ^2.0.15
+
   shared_preferences: ^2.0.13
+
   geolocator: ^7.0.3
+
   dio: ^4.0.4
+
   syncfusion_flutter_charts: ^20.2.48
+
   flutter_svg: ^1.1.4
+
   cached_network_image: ^3.2.1
+
   google_maps_flutter: ^2.2.0
+
   fluttertoast: ^8.0.9
+
   hexcolor: ^2.0.7
+
   flutter_share: ^2.0.0
+
   weather: ^2.0.1
+
 
 ======================================================================================>
 
