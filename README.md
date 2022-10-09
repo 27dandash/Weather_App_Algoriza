@@ -7,7 +7,7 @@ App Record Screen ==============================================================
 https://drive.google.com/file/d/1qciex40FeUKipzRx0ELtrNcVeyWm7MCg/view?usp=sharing
 
 ===========================================================================================>
-App Screen Shot :-
+App Screen Shot :- 
 
 1-https://drive.google.com/file/d/1hqYcraCO7U69JHvsc3xC_C0lRGlcyxHZ/view
 2-https://drive.google.com/file/d/1fwrbKh3Jtza_chXZtnBybo_kMbUGbEMR/view
